@@ -1,7 +1,7 @@
 ### 👋 Hi, I'm Ben
 
 3rd-year Computer Science student.<br>
-I love building things and learning new ones!
+I love building and learning new things!
 
 ### 📬 Contact:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/benjamin-kim-656307254/)
