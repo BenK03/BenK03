@@ -10,3 +10,9 @@ I love building and learning new things!
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Inter&size=22&pause=1000&center=true&vCenter=true&width=500&lines=Always+building.;Always+learning." />
 </p>
+
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats-eight.vercel.app/?user=BenK03" alt="GitHub Streak" />
+  </a>
+</p>
