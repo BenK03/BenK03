@@ -1,6 +1,6 @@
 ### 👋 Hi, I'm Ben
 
-3rd-year Computer Science student.<br>
+4th-year Computer Science student.<br>
 I love building and learning new things!
 
 ### 📬 Contact:
